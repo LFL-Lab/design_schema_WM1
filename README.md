@@ -1,9 +1,17 @@
-# project_root_wm1
-
-This is the documentation for the WM1 device. 
+## WM1 Design Schema
 
 
-# Links and Paper
+This is the documentation for the WM1 device from the Levenson-Falk Lab at USC.
 
-The paper can be accessed here: https://arxiv.org/abs/2312.13483
-Visit the SQuADDs website here: https://lfl-lab.github.io/SQuADDS/
+This device is a modification of the MIT Lincoln Laboratory “standard candle” chip and was fabricated via the MIT-LL SQUILL foundry program.
+
+
+## Links and Paper
+
+Read the paper here: https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.020321
+
+
+Connect with the lab here: https://dornsife.usc.edu/lfl/
+
+
+This design schema is associated with the SQuADDS project. More information can be found here: https://lfl-lab.github.io/SQuADDS/
