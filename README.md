@@ -20,8 +20,7 @@ This device is a modification of the MIT Lincoln Laboratory â€œstandard candleâ€
 
 ## Links and Paper
 
-Read the paper here: https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.020321
-
+Here are some papers associated with this device: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.062620, https://arxiv.org/pdf/2312.13483
 
 Connect with the lab here: https://dornsife.usc.edu/lfl/
 
